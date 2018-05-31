@@ -73,7 +73,7 @@ https://www.infoq.com/br/articles/apache-spark-introduction
 
 https://github.com/kakoni/awesome-healthcare/blob/master/README.md#machine-learning
 
-# Health
+# Health Projects
 
 https://github.com/kakoni/awesome-healthcare/blob/master/README.md#machine-learning
 
