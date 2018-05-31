@@ -18,6 +18,15 @@ Is a git submodule from git@github.com:klebermagno/quepy.git
 ## Datasets
 www.kaggle.com
 
+## Tools
+
+### WEKA
+
+[https://www.cs.waikato.ac.nz/ml/weka/](https://www.cs.waikato.ac.nz/ml/weka/) Weka 3: Data Mining Software in Java
+### Oranage
+
+[https://orange.biolab.si/screenshots/](Orange)
+
 ## API
 tensorflor
 scikit-learn    http://scikit-learn.org/stable/auto_examples/index.html
