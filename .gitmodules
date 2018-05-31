@@ -1,0 +1,9 @@
+[submodule "Genetic-Algorithm"]
+	path = Genetic-Algorithm
+	url = git@github.com:klebermagno/Genetic-Algorithm.git
+[submodule "quepy"]
+	path = quepy
+	url = git@github.com:klebermagno/quepy.git
+[submodule "PythonDataScienceHandbook"]
+	path = PythonDataScienceHandbook
+	url = git@github.com:klebermagno/PythonDataScienceHandbook.git
