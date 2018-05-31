@@ -1,5 +1,8 @@
 # Artificial inteligence
 
+The propouse of this project is organize some Artificial Inteligenc techinics and projects.
+So this project is structured in git submodules to others projects and README.md to documentate some techinics.
+
 ## Structure
 
 ### /Genetic-Algorithm
