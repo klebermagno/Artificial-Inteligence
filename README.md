@@ -77,6 +77,16 @@ http://www.inf.ufpr.br/erlfilho/tutorials/spark/
 https://www.infoq.com/br/articles/apache-spark-introduction
 
 
+# Technics
+
+ committee machine
+ 
+ [http://www.cs.bham.ac.uk/~jxb/NN/l15.pdf]
+ 
+ [https://github.com/lucaskolstad/rBCM]
+ 
+ []
+ 
 # Machine Learning Hadoop MAHOUT 
 
 
