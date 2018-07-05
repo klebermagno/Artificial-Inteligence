@@ -14,7 +14,10 @@ Is a git submodule from git@github.com:klebermagno/PythonDataScienceHandbook.git
 ### /quepy
 Is a git submodule from git@github.com:klebermagno/quepy.git
 
- 
+# Tutorial
+
+https://github.com/klebermagno/notebooks
+
 ## Datasets
 www.kaggle.com
 
